@@ -1,0 +1,24 @@
+.links{
+    color:white !important;
+    text-decoration:none;
+    margin:5px;
+    padding-bottom:5px;
+    font-size:18px;
+}
+.links:hover{
+    color:white;
+    text-decoration:none;
+    border-bottom:3px solid blue;
+}
+
+.active{
+    border-bottom:3px solid blue;
+}
+
+.navbar{
+    background-color:#1976d2;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 
+                0px 4px 5px 0px rgba(0,0,0,0.14), 
+                0px 1px 10px 0px rgba(0,0,0,0.12);
+    margin-bottom:0px;
+}
